@@ -1,4 +1,2 @@
-test-repo
+Introduction to Algorithms
 =========
-
-This is a test repo
