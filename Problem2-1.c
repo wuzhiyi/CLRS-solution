@@ -1,8 +1,18 @@
-#Problem 2-1
-
-##INSERT-MERGE-SORT & SELECT-MERGE-SORT
-###from skanev
----
+/**************************************************************
+ * Copyright (c) Wuzhiyi
+ * Introduction to Algorithms
+ *
+ * 题目:     Problem 2-1
+ * 文件名:   INSERT-MERGE-SORT & SELECT-MERGE-SORT
+ * 作者:     skanev
+ * 语言:     c
+ * 内容摘要: 
+ *
+ * 修改记录:
+ * 修改日期       版本号       修改人       修改内容
+ * ------------------------------------------------------------
+ * 20150702       V1.0          wuzhiyi      创建
+**************************************************************/
 #include <stdlib.h>
 #include <string.h>
 
