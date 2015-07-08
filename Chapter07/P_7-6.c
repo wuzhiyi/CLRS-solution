@@ -4,7 +4,7 @@
  *
  * 题目:  Problem 7-6
  * 名称:  FUZZY-SORT
- * 作者:  clrs.skanev.com
+ * 作者:  skanev
  * 语言:  c
  * 内容摘要: Fuzzy sorting of intervals
  *
