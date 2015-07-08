@@ -4,7 +4,7 @@
  *
  * 题目:  Exercise 4.1-5
  * 名称:  MAXIMUM-SUBARRAY(linear time)
- * 作者:  clrs.skanev.com
+ * 作者:  skanev
  * 语言:  c
  * 内容摘要:
  *
