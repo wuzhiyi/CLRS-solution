@@ -1,4 +1,4 @@
-#CLRS solutions
+##CLRS solutions
 
 1. Introduction to Algorithms, 3rd edition
 2. Code sharing
@@ -6,9 +6,9 @@
 
 ##命名格式
 
-C - Chapter
-E - Exercise
-P - Problem
+C - Chapter </br>
+E - Exercise</br>
+P - Problem </br>
 
 ###Example:
 C_2.3.1: Chapter 2.3.1 </br>
