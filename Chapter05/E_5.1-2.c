@@ -4,7 +4,7 @@
  *
  * 题目:  Exercise 5.1-2
  * 名称:  RANDOM(a,b)
- * 作者:  www.cnblogs.com/facingwaller
+ * 作者:  facingwaller
  * 语言:  c
  * 内容摘要:
  *
