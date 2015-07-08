@@ -5,7 +5,7 @@
  * 题目:  Exercise 4.1-3
  * 名称:  BRUTE-FORCE & DIVIDE-CONQUER
  * 作者:  skanev
- * 语言:
+ * 语言:  c
  * 内容摘要:
  *
  * 修改记录:
