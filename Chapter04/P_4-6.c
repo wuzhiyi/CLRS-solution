@@ -4,7 +4,7 @@
  *
  * 题目:  Problem 4-6
  * 名称:  MONGE-ARRAY
- * 作者:  clrs.skanev.com
+ * 作者:  skanev
  * 语言:  c
  * 内容摘要:
  *
