@@ -4,7 +4,7 @@
  *
  * 题目:  Problem 6-3
  * 名称:  YOUNG-TABLEAUS
- * 作者:  clrs.skanev.com
+ * 作者:  skanev
  * 语言:  c
  * 内容摘要: Young氏矩阵
  *
