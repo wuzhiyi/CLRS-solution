@@ -19,7 +19,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 [Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c): 归并 </br>
 
 ####Chapter 6
-[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.2.c):堆排序（Heap Sort）</br>
+[Chapter 6.2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.2.c):堆排序（Heap Sort）</br>
 [Exercise 6.2-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.2-5.c):维护堆的性质</br>
 [Exercise 6.5-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-3.c):最小堆实现最小优先队列</br>
 [Exercise 6.5-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-6.c):HEAP-INCREASE-KEY（只用一次赋值完成交换操作）</br>
