@@ -65,5 +65,9 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 ####Chapter 15
 [Exercise 15.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter15/E_15.1-5.cpp): 斐波那契数列（动态规划算法计算斐波那契数）</br>
 
+####Chapter 16
+[Exercise 16.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-2.cpp):最晚开始的活动</br>
+[Exercise 16.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-4.cpp):区间图着色问题</br>
+
 ####Chapter 17
 [Chapter 17.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter17/C_17.1.c): 二进制计数器</br>
