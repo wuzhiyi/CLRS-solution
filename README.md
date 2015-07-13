@@ -16,7 +16,27 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 ##内容索引
 
 ####Chapter 2
-Chapter 2.3.1: 归并 </br>
+[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c): 归并 </br>
+
+####Chapter 6
+[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.2.c):堆排序（Heap Sort）</br>
+[Exercise 6.2-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.2-5.c):维护堆的性质</br>
+[Exercise 6.5-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-3.c):最小堆实现最小优先队列</br>
+[Exercise 6.5-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-6.c):HEAP-INCREASE-KEY（只用一次赋值完成交换操作）</br>
+[Exercise 6.5-9](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-9.cpp):使用最小堆完成 K 路归并排序</br>
+[Problem 6-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-2.c):d 叉堆</br>
+[Problem 6-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-3.c):Young 氏矩阵</br>
+
+####Chapter 7
+[Chapter 7.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/C_7.3.c):快速排序随机化版本</br>
+[Exercise 7.4-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/E_7.4-5.c):快速排序改进（底层插入排序，上层快速排序）</br>
+[Problem 7-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/P_7-1.2.c):Hoare 划分</br>
+
+####Chapter 8
+[Problem 8-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-2.c):线性时间原址排序</br>
+[Problem 8-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-3.c):变长数组的排序</br>
+[Problem 8-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-5.c):平均排序</br>
+[Problem 8-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-7.c):0-1 排序引理和列排序</br>
 
 ####Chapter 10
 [Exercise 10.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.1-5.c): 双端队列</br>
