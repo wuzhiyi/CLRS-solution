@@ -2,11 +2,11 @@
  * Copyright (c) Wuzhiyi
  * Introduction to Algorithms
  *
- * 题目:  Chapter 4
+ * 题目:  Chapter 4.1
  * 名称:  MAX-SUM
  * 作者:  www.biancneg.cn
  * 语言:  c
- * 内容摘要:
+ * 内容摘要: 最大子数组
  *
  * 修改记录:
  * 修改日期       版本号       修改人       修改内容
