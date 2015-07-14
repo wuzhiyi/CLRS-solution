@@ -35,7 +35,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 [Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c) - Monge 阵列</br>
 
 ####Chapter 5
-[Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c) - 随机算法(RANDOM(0,1))</br>
+[Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c) - 随机算法（RANDOM(0,1)）</br>
 [Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c) - 随机算法（有偏输出 0|1）
 
 ####Chapter 6
