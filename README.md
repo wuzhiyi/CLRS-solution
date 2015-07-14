@@ -1,6 +1,7 @@
 ##CLRS solutions
 
 算法导论（第三版），习题解答
+持续更新
 
 ####命名格式
 C - Chapter </br>
