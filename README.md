@@ -1,9 +1,10 @@
-##CLRS solutions
+##CLRS SOLUTIONS
 
 Introduction to Algorithms, 3rd edition</br>
-持续更新
 
-####命名格式
+Continuous Updating
+
+####Name Format
 C - Chapter </br>
 E - Exercise</br>
 P - Problem </br>
@@ -13,7 +14,7 @@ C_2.3.1:    Chapter 2.3.1 </br>
 E_2.3-5.2:  Exercise 2.3-5, 2nd version </br>
 E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
-##内容索引
+##INDEX
 
 ####Chapter 2 Getting Started
 [Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c) - 归并排序 </br>
