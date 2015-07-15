@@ -57,7 +57,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 [Problem 8-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-2.c) - 线性时间原址排序</br>
 [Problem 8-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-3.c) - 变长数组的排序</br>
 [Problem 8-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-5.c) - 平均排序</br>
-[Problem 8-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-7.c)- 0-1 排序引理和列排序</br>
+[Problem 8-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-7.c) - 0-1 排序引理和列排序</br>
 
 ####Chapter 10 Elementary Data Structures
 [Exercise 10.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.1-5.c) - 双端队列</br>
