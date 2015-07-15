@@ -37,7 +37,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ####Chapter 5 Probabilistic Analysis and Randomized Algorithms
 [Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c) - 随机算法（RANDOM(0,1)）</br>
-[Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c) - 随机算法（有偏输出 0|1）
+[Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c) - 随机算法（有偏输出 0 或 1）
 
 ####Chapter 6 Heapsort
 [Chapter 6.2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.2.c) - 堆排序（Heap Sort）</br>
