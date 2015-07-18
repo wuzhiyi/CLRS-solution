@@ -93,3 +93,6 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ####[Chapter 17](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter17) Amortized Analysis
 [Chapter 17.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter17/C_17.1.c) - 二进制计数器</br>
+
+####[Others](https://github.com/wuzhiyi/CLRS-solution/tree/master/Others)
+[Brute-Force-Additive-Cipher](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Brute-Force-Additive-Cipher)暴力解加法密码</br>
