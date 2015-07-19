@@ -1,7 +1,7 @@
 ##CLRS SOLUTIONS
 Introduction to Algorithms, 3rd edition</br>
 
-If you have any questions or intend to improve my solution, </br>you coul directly post an issue or fork a repository by yourself,</br>or send email to me (my email: zhiyifight@163.com).
+If you have any questions or intend to improve my solution, </br>you could directly post an issue or fork a repository by yourself,</br>or send email to me (my email: zhiyifight@163.com).
 
 Thanks for your conbritution.
 
