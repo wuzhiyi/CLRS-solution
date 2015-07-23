@@ -1,20 +1,12 @@
-//
-//  main.c
-//  Assignment
-//
-//  Created by 吴志易 on 15/7/12.
-//  Copyright (c) 2015年 吴志易. All rights reserved.
-//
 /**************************************************************
  * Copyright (c) Wuzhiyi
  * Introduction to Algorithms
  *
  * 题目:
- * 名称:  二分取余
+ * 名称:  任意指数的二分取余
  * 作者:  wuzhiyi
  * 语言:  c
- * 内容摘要: (a*b)modc = (amodc)*(bmodc)modc
- *          求9的29次方对264取余
+ * 内容摘要: 任意数的N次方取余
  *
  * 修改记录:
  * 修改日期       版本号       修改人       修改内容
@@ -22,19 +14,27 @@
  * 20150723      V1.0       wuzhiyi      创建
  **************************************************************/
 #include <stdio.h>
-#include <math.h>
-#define N 9
-int Remainder(long A, long B) {
-    return ((A*B)%264);
+
+//define A^B mod C
+#define A 9
+#define B 29
+#define C 264
+int Remainder(int a) {
+    if (a > 1) {
+        if (a%2 != 0){
+            printf ("Remainder(%d) & Remainder(%d)\n", a/2, a/2+1);
+            return (Remainder(a/2)*Remainder((a/2)+1))%C;
+        }
+        else {
+            printf ("Remainder(%d) & Remainder(%d)\n", a/2, a/2);
+            return (Remainder(a/2)*Remainder(a/2))%C;
+        }
+    }
+    return A%C;
 }
 
-//(9^29)mod 264 = (((9^14)mod 264)*((9^15)mod 264))mod 264
 int main() {
-    int x = pow(9,7);
-    int y = pow(9,8);
-    int a,b;
-    printf ("9^7 = %d,\t9^8 = %d\n", x, y);
-    printf ("9^14 mod 264 =%d\n", a = Remainder(x, x));
-    printf ("9^15 mod 264 =%d\n", b = Remainder(x, y));
-    printf ("%d\n", Remainder(a, b));
+    printf ("求 A^B mod C\n");
+    printf ("A = %d, B = %d, C = %d\n", A, B, C);
+    printf ("%d^%d mod %d = %d\n", A, B, C, Remainder(B));
 }
