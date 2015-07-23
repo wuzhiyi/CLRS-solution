@@ -38,3 +38,7 @@ int main() {
     printf ("A = %d, B = %d, C = %d\n", A, B, C);
     printf ("%d^%d mod %d = %d\n", A, B, C, Remainder(B));
 }
+/* 存在优化空间
+ * 即找到指数二分中的一临界值，直接计算取余
+ * 则不需要继续将指数二分到 1。
+ */
