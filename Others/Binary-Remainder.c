@@ -19,8 +19,11 @@
 #define A 9
 #define B 29
 #define C 264
+
+//二分递归指数直到为 1，返回
 int Remainder(int a) {
     if (a > 1) {
+        //判断指数奇偶
         if (a%2 != 0){
             printf ("Remainder(%d) & Remainder(%d)\n", a/2, a/2+1);
             return (Remainder(a/2)*Remainder((a/2)+1))%C;
@@ -39,6 +42,6 @@ int main() {
     printf ("%d^%d mod %d = %d\n", A, B, C, Remainder(B));
 }
 /* 存在优化空间
- * 即找到指数二分中的一临界值，直接计算取余
+ * 即找到指数二分中的临界值，直接计算取余
  * 则不需要继续将指数二分到 1。
  */
