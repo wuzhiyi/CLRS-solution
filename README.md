@@ -101,5 +101,6 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ####[Others](https://github.com/wuzhiyi/CLRS-solution/tree/master/Others)
 [Brute-Force-Additive-Cipher](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Brute-Force-Additive-Cipher.c) - 暴力破解加法密码</br>
+[Ext-Euclid](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Ext-Euclid.c) - 扩展欧几里得算法</br>
 [Modular-Exp](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Modular-Exp.c) - 指数取模</br>
 [Multiplicative-Inverse](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Multiplicative-Inverse.c) - 乘法逆元（费马小定理 & 扩展欧几里得算法）</br>
