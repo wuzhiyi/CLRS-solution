@@ -33,8 +33,8 @@ E_2.3-5.2:  Exercise 2.3-5, 2nd version </br>
 E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ##INDEX
-<a name="chapter-2"/>
-####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started
+
+####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started<a name="chapter-2">
 | # | Title |
 |---| ----- |
 |[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c)|归并排序|
