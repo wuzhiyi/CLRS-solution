@@ -1,15 +1,15 @@
-**[2](#Chapter-2)**|
-**[4](#Chapter-4)**|
-**[5](#Chapter-5)**|
-**[6](#Chapter-6)**|
-**[7](#Chapter-7)**|
-**[8](#Chapter-8)**|
-**[10](#Chapter-10)**|
-**[12](#Chapter-12)**|
-**[13](#Chapter-13)**|
-**[14](#Chapter-14)**|
-**[15](#Chapter-15)**|
-**[16](#Chapter-16)**
+**[ 2 ](#chapter-2)**|
+**[ 4 ](#Chapter-4)**|
+**[ 5 ](#Chapter-5)**|
+**[ 6 ](#Chapter-6)**|
+**[ 7 ](#Chapter-7)**|
+**[ 8 ](#Chapter-8)**|
+**[ 10 ](#Chapter-10)**|
+**[ 12 ](#Chapter-12)**|
+**[ 13 ](#Chapter-13)**|
+**[ 14 ](#Chapter-14)**|
+**[ 15 ](#Chapter-15)**|
+**[ 16 ](#Chapter-16)**
 
 ##CLRS SOLUTIONS
 Introduction to Algorithms, 3rd edition</br>
@@ -34,7 +34,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ##INDEX
 
-####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started
+####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started<a name="chapter-2">
 | # | Title |
 |---| ----- |
 |[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c)|归并排序|
