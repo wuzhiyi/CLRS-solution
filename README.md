@@ -1,15 +1,16 @@
 **[ 2 ](#chapter-2)**|
-**[ 4 ](#Chapter-4)**|
-**[ 5 ](#Chapter-5)**|
-**[ 6 ](#Chapter-6)**|
-**[ 7 ](#Chapter-7)**|
-**[ 8 ](#Chapter-8)**|
-**[ 10 ](#Chapter-10)**|
-**[ 12 ](#Chapter-12)**|
-**[ 13 ](#Chapter-13)**|
-**[ 14 ](#Chapter-14)**|
-**[ 15 ](#Chapter-15)**|
-**[ 16 ](#Chapter-16)**
+**[ 4 ](#chapter-4)**|
+**[ 5 ](#chapter-5)**|
+**[ 6 ](#chapter-6)**|
+**[ 7 ](#chapter-7)**|
+**[ 8 ](#chapter-8)**|
+**[ 10 ](#chapter-10)**|
+**[ 12 ](#chapter-12)**|
+**[ 13 ](#chapter-13)**|
+**[ 14 ](#chapter-14)**|
+**[ 15 ](#chapter-15)**|
+**[ 16 ](#chapter-16)**|
+**[ others ](#others)**
 
 ##CLRS SOLUTIONS
 Introduction to Algorithms, 3rd edition</br>
@@ -33,8 +34,8 @@ E_2.3-5.2:  Exercise 2.3-5, 2nd version </br>
 E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ##INDEX
-
-####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started<a name="chapter-2"/>
+<a name="chapter-2"/>
+####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started
 | # | Title |
 |---| ----- |
 |[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c)|归并排序|
@@ -47,23 +48,23 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 |[Problem 2-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-1.c)|在归并排序中对小数组采用插入排序|
 |[Problem 2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-2.c)|冒泡排序|
 |[Problem 2-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-4.c)|逆序对|
-
+<a name="chapter-4"/>
 ####[Chapter 4](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter04) Divide-and-Conquer
 | # | Title |
 |---| ----- |
-|[Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c)|最大子数组问题|
+|[Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c)|最大子数组问题
 |[Exercise 4.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-3.c)|最大子数组问题暴力算法与递归算法的性能交叉点|
-|[Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c)|最大子数组问题（允许空子数组）|
-|[Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c)|最大子数组问题（非递归&线性时间）|
-|[Exercise 4.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.2-2.c)|Strassen 算法|
-|[Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c)|Monge 阵列|
-
+|[Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c)|最大子数组问题（允许空子数组）
+|[Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c)|最大子数组问题（非递归&线性时间）
+|[Exercise 4.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.2-2.c)|Strassen 算法
+|[Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c)|Monge 阵列
+<a name="chapter-5"/>
 ####[Chapter 5](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter05) Probabilistic Analysis and Randomized Algorithms
 | # | Title |
 |---| ----- |
 |[Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c)|随机算法（RANDOM(0,1)）|
 |[Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c)|随机算法（有偏输出 0 或 1）|
-
+<a name="chapter-6"/>
 ####[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter06) Heapsort
 | # | Title |
 |---| ----- |
@@ -74,14 +75,14 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 |[Exercise 6.5-9](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-9.cpp)|使用最小堆完成 K 路归并排序</br>
 |[Problem 6-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-2.c)|d 叉堆</br>
 |[Problem 6-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-3.c)|Young 氏矩阵</br>
-
+<a name="chapter-7"/>
 ####[Chapter 7](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter07) Quicksort
 | # | Title |
 |---| ----- |
 |[Chapter 7.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/C_7.3.c)|快速排序随机化版本</br>
 |[Exercise 7.4-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/E_7.4-5.c)|快速排序改进（底层插入排序，上层快速排序）</br>
 |[Problem 7-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/P_7-1.2.c)|Hoare 划分</br>
-
+<a name="chapter-8"/>
 ####[Chapter 8](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter08) Sorting in Linear Time
 | # | Title |
 |---| ----- |
@@ -89,7 +90,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 |[Problem 8-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-3.c)|变长数组的排序</br>
 |[Problem 8-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-5.c)|平均排序</br>
 |[Problem 8-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-7.c)|0-1 排序引理和列排序</br>
-
+<a name="chapter-10"/>
 ####[Chapter 10](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter10) Elementary Data Structures
 | # | Title |
 |---| ----- |
@@ -103,41 +104,41 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 |[Exercise 10.4-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.4-2.c)|递归输出二叉树结点关键字</br>
 |[Exercise 10.4-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.4-3.c)|非递归输出二叉树结点关键字</br>
 |[Problem 10-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/P_10-2.c)|利用链表实现可合并堆</br>
-
+<a name="chapter-12"/>
 ####[Chapter 12](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter12) Binary Search Trees
 | # | Title |
 |---| ----- |
 |[Problem 12-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter12/P_12-1.c)|带有相同关键字的二叉搜索树</br>
 |[Problem 12-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter12/P_12-2.c)|基数树（Radix Tree）</br>
-
+<a name="chapter-13"/>
 ####[Chapter 13](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter13) Red-Black Trees
 | # | Title |
 |---| ----- |
 |[Problem 13-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter13/P_13-1.cpp)|持久动态集合</br>
 |[Problem 13-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter13/P_13-4.cpp)|Treap 树</br>
-
+<a name="chapter-14"/>
 ####[Chapter 14](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter14) Augmenting Data Structures
 | # | Title |
 |---| ----- |
 |[Chapter 14.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/C_14.3.cpp)|区间树</br>
 |[Exercise 14.3-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/E_14.3-6.cpp)|区间树的 MIN-GAP 操作</br>
-
+<a name="chapter-15"/>
 ####[Chapter 15](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter15) Dynamic Programming
 | # | Title |
 |---| ----- |
 |[Exercise 15.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter15/E_15.1-5.cpp)|斐波那契数列（动态规划算法计算斐波那契数）</br>
-
+<a name="chapter-16"/>
 ####[Chapter 16](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter16) Greedy Algorithms
 | # | Title |
 |---| ----- |
 |[Exercise 16.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-2.cpp)|最晚开始的活动</br>
 |[Exercise 16.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-4.cpp)|区间图着色问题</br>
-
+<a name="chapter-17"/>
 ####[Chapter 17](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter17) Amortized Analysis
 | # | Title |
 |---| ----- |
 |[Chapter 17.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter17/C_17.1.c)|二进制计数器</br>
-
+<a name="others"/>
 ####[Others](https://github.com/wuzhiyi/CLRS-solution/tree/master/Others)
 | # | Title |
 |---| ----- |
