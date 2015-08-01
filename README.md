@@ -1,3 +1,16 @@
+**[2](#Chapter-2)**|
+**[4](#Chapter-4)**|
+**[5](#Chapter-5)**|
+**[6](#Chapter-6)**|
+**[7](#Chapter-7)**|
+**[8](#Chapter-8)**|
+**[10](#Chapter-10)**|
+**[12](#Chapter-12)**|
+**[13](#Chapter-13)**|
+**[14](#Chapter-14)**|
+**[15](#Chapter-15)**|
+**[16](#Chapter-16)**
+
 ##CLRS SOLUTIONS
 Introduction to Algorithms, 3rd edition</br>
 
