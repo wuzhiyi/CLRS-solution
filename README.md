@@ -142,7 +142,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 ####[Others](https://github.com/wuzhiyi/CLRS-solution/tree/master/Others)
 | # | Title |
 |---| ----- |
-|[Brute-Force-Additive-Cipher](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Brute-Force-Additive-Cipher.c)|additive cipher (BRUTE-FORCE)
+|[Additive-Cipher](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Brute-Force-Additive-Cipher.c)|additive cipher (BRUTE-FORCE)
 |[Ext-Euclid](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Ext-Euclid.c)|extended Euclidean algorithm
 |[Modular-Exp](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Modular-Exp.c)|modular exponentiation algorithm
 |[Multiplicative-Inverse](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Multiplicative-Inverse.c)|multiplicative inverse (Fermat's little theorem & extended Euclidean algorithm)
