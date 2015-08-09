@@ -38,32 +38,32 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 ####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started
 | # | Title |
 |---| ----- |
-|[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c)|归并排序|
-|[Exercise 2.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.1-4.c)|二进制相加|
-|[Exercise 2.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.2-2.c)|选择算法|
-|[Exercise 2.3-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-2.c)|归并排序（无哨兵）|
-|[Exericse 2.3-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-5.c)|二分查找|
-|[Exercise 2.3-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-6.c)|使用二分查找改进插入排序|
-|[Exercise 2.3-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-7.c)|和查找|
-|[Problem 2-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-1.c)|在归并排序中对小数组采用插入排序|
-|[Problem 2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-2.c)|冒泡排序|
-|[Problem 2-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-4.c)|逆序对|
+|[Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c)|MERGE SORT|
+|[Exercise 2.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.1-4.c)|ADD BINARY|
+|[Exercise 2.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.2-2.c)|SELECTION SORT|
+|[Exercise 2.3-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-2.c)|MERGE SORT (no sentinel)|
+|[Exericse 2.3-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-5.c)|BINARY SEARCH|
+|[Exercise 2.3-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-6.c)|use BINARY SEARCH improve INSERTION SORT
+|[Exercise 2.3-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.3-7.c)|find sum|
+|[Problem 2-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-1.c)|INSERTION SORT on small arrays in MERGE SORT|
+|[Problem 2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-2.c)|correctnes of BUBBLESORT|
+|[Problem 2-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-4.c)|inversions|
 <a name="chapter-4"/>
 ####[Chapter 4](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter04) Divide-and-Conquer
 | # | Title |
 |---| ----- |
-|[Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c)|最大子数组问题
-|[Exercise 4.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-3.c)|最大子数组问题暴力算法与递归算法的性能交叉点|
-|[Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c)|最大子数组问题（允许空子数组）
-|[Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c)|最大子数组问题（非递归&线性时间）
-|[Exercise 4.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.2-2.c)|Strassen 算法
-|[Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c)|Monge 阵列
+|[Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c)|the maximum-subarray problem
+|[Exercise 4.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-3.c)|crossover point of brute-force & recursive algorithm for the maximum-subarray problem
+|[Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c)|the maximum-subarray problem (allow empty subarray)
+|[Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c)|the maximum-subarray problem (nonrecursive & linear-time)
+|[Exercise 4.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.2-2.c)|Strassen's algorithm
+|[Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c)|Monge arrays
 <a name="chapter-5"/>
 ####[Chapter 5](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter05) Probabilistic Analysis and Randomized Algorithms
 | # | Title |
 |---| ----- |
-|[Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c)|随机算法（RANDOM(0,1)）|
-|[Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c)|随机算法（有偏输出 0 或 1）|
+|[Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c)|RANDOM(a,b) makes calls to RANDOM(0,1)|
+|[Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c)|BIASED-RANDOM
 <a name="chapter-6"/>
 ####[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter06) Heapsort
 | # | Title |
