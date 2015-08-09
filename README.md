@@ -68,10 +68,10 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 ####[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter06) Heapsort
 | # | Title |
 |---| ----- |
-|[Chapter 6.2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.2.c)|堆排序（Heap Sort）</br>
-|[Exercise 6.2-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.2-5.c)|维护堆的性质</br>
-|[Exercise 6.5-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-3.c)|最小堆实现最小优先队列</br>
-|[Exercise 6.5-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-6.c)|HEAP-INCREASE-KEY（只用一次赋值完成交换操作）</br>
+|[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.c)|heap sort
+|[Exercise 6.2-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.2-5.c)|MAX-HEAPIFY (iterative)
+|[Exercise 6.5-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-3.c)|min-heap
+|[Exercise 6.5-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-6.c)|HEAP-INCREASE-KEY (INSERTION-SORT)
 |[Exercise 6.5-9](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-9.cpp)|使用最小堆完成 K 路归并排序</br>
 |[Problem 6-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-2.c)|d 叉堆</br>
 |[Problem 6-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-3.c)|Young 氏矩阵</br>
