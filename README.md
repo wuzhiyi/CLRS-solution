@@ -1,3 +1,5 @@
+![img](https://cloud.githubusercontent.com/assets/9131176/10758683/ece9e164-7ced-11e5-890c-a8aae5539cd0.png)
+
 skip: 
 **[ 2 ](#chapter-2)**|
 **[ 4 ](#chapter-4)**|
@@ -13,7 +15,7 @@ skip:
 **[ 16 ](#chapter-16)**|
 **[ others ](#others)**
 
-##CLRS SOLUTIONS
+##INFO
 Introduction to Algorithms, 3rd edition</br>
 
 If you have any questions or intend to improve my solution, </br>you could directly post an issue or fork a repository by yourself,</br>or send email to me (my email: zhiyifight@163.com).
@@ -24,7 +26,7 @@ Continuous Updating</br>
 
 _wuzhiyi_
 
-##Name Format
+##NAME FORMAT
 C - Chapter </br>
 E - Exercise</br>
 P - Problem </br>
@@ -148,7 +150,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 |[Modular-Exp](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Modular-Exp.c)|modular exponentiation algorithm
 |[Multiplicative-Inverse](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Multiplicative-Inverse.c)|multiplicative inverse (Fermat's little theorem & extended Euclidean algorithm)
 
-##License
+##LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015 vinci
