@@ -58,7 +58,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c) - the maximum-subarray problem
 - [Exercise 4.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-3.c) - crossover point of brute-force & recursive algorithm for the maximum-subarray problem
 - [Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c) - the maximum-subarray problem (allow empty subarray)
-- [Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c)|the maximum-subarray problem (nonrecursive & linear-time)
+- [Exercise 4.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-5.c) - the maximum-subarray problem (nonrecursive & linear-time)
 - [Exercise 4.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.2-2.c) - Strassen's algorithm
 - [Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c) - Monge arrays
 
