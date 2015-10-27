@@ -1,6 +1,8 @@
 ![img](https://cloud.githubusercontent.com/assets/9131176/10758683/ece9e164-7ced-11e5-890c-a8aae5539cd0.png)
-
-skip: 
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/wuzhiyi/CLRS-solution)
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/wuzhiyi/CLRS-solution)
+[![process](https://img.shields.io/badge/process-17-red.svg)](https://github.com/wuzhiyi/CLRS-solution)
+####skip: 
 **[ 2 ](#chapter-2)**|
 **[ 4 ](#chapter-4)**|
 **[ 5 ](#chapter-5)**|
