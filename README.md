@@ -40,7 +40,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 
 ##INDEX
 <a name="chapter-2"/>
-####[Chapter 2](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02) Getting Started
+####[Chapter 2 Getting Started](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02)
 - [Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c) - MERGE SORT
 - [Exercise 2.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.1-4.c) - ADD BINARY
 - [Exercise 2.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.2-2.c) - SELECTION SORT|
@@ -53,7 +53,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Problem 2-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/P_2-4.c)- inversions
 
 <a name="chapter-4"/>
-####[Chapter 4](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter04) Divide-and-Conquer
+####[Chapter 4 Divide-and-Conquer](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter04)
 - [Chapter 4.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/C_4.1.c) - the maximum-subarray problem
 - [Exercise 4.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-3.c) - crossover point of brute-force & recursive algorithm for the maximum-subarray problem
 - [Exercise 4.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/E_4.1-4.c) - the maximum-subarray problem (allow empty subarray)
@@ -62,12 +62,12 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Problem 4-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter04/P_4-6.c) - Monge arrays
 
 <a name="chapter-5"/>
-####[Chapter 5](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter05) Probabilistic Analysis and Randomized Algorithms
+####[Chapter 5 Probabilistic Analysis and Randomized Algorithms](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter05)
 - [Exercise 5.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-2.c) - RANDOM(a,b) makes calls to RANDOM(0,1)
 - [Exercise 5.1-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter05/E_5.1-3.c) - BIASED-RANDOM
 
 <a name="chapter-6"/>
-####[Chapter 6](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter06) Heapsort
+####[Chapter 6 Heapsort](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter06)
 - [Chapter 6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/C_6.c) - heap sort
 - [Exercise 6.2-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.2-5.c) - MAX-HEAPIFY (iterative)
 - [Exercise 6.5-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/E_6.5-3.c) - min-heap
@@ -77,20 +77,20 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Problem 6-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter06/P_6-3.c) - Young tableaus
 
 <a name="chapter-7"/>
-####[Chapter 7](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter07) Quicksort
+####[Chapter 7 Quicksort](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter07)
 - [Chapter 7.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/C_7.3.c) - RANDOMIZED-QUICKSORT
 - [Exercise 7.4-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/E_7.4-5.c) - improve QUICKSORT by INSERTION SORT
 - [Problem 7-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter07/P_7-1.2.c) - Hoare partition correctness
 
 <a name="chapter-8"/>
-####[Chapter 8](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter08) Sorting in Linear Time
+####[Chapter 8 Sorting in Linear Time](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter08)
 - [Problem 8-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-2.c) - sorting in place in linear time
 - [Problem 8-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-3.c) - sorting variable-length items
 - [Problem 8-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-5.c) - averaging sorting
 - [Problem 8-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter08/P_8-7.c) - the 0-1 sorting lemma and columnsort
 
 <a name="chapter-10"/>
-####[Chapter 10](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter10) Elementary Data Structures
+####[Chapter 10 Data Structures](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter10)
 - [Exercise 10.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.1-5.c) - deque (double-ended queue)
 - [Exercise 10.2-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.2-2.2.c) - implement a stack using a singly linked list
 - [Exercise 10.2-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.2-3.c) - implement a queue by a singly linked list
@@ -103,31 +103,31 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Problem 10-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/P_10-2.c) - mergeable heaps using linked lists
 
 <a name="chapter-12"/>
-####[Chapter 12](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter12) Binary Search Trees
+####[Chapter 12 Binary Search Trees](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter12)
 - [Problem 12-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter12/P_12-1.c) - binary search trees with equal keys
 - [Problem 12-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter12/P_12-2.c) - radix trees
 
 <a name="chapter-13"/>
-####[Chapter 13](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter13) Red-Black Trees
+####[Chapter 13 Red-Black Trees](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter13)
 - [Problem 13-1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter13/P_13-1.cpp) - persistent dynamic sets
 - [Problem 13-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter13/P_13-4.cpp) - Treaps
 
 <a name="chapter-14"/>
-####[Chapter 14](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter14) Augmenting Data Structures
+####[Chapter 14 Augmenting Data Structures](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter14) 
 - [Chapter 14.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/C_14.3.cpp) - interval trees
 - [Exercise 14.3-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/E_14.3-6.cpp) - maintain a dynamic set that supports the operation MIN-GAP
 
 <a name="chapter-15"/>
-####[Chapter 15](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter15) Dynamic Programming
+####[Chapter 15 Dynamic Programming](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter15)
 - [Exercise 15.1-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter15/E_15.1-5.cpp) - the Fibonacci numbers (dynamic-programming algorithm)
 
 <a name="chapter-16"/>
-####[Chapter 16](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter16) Greedy Algorithms
+####[Chapter 16 Greedy Algorithms](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter16)
 - [Exercise 16.1-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-2.cpp) - the last activity to start (greedy algorithm)
 - [Exercise 16.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter16/E_16.1-4.cpp) - interval-graph coloring problem
 
 <a name="chapter-17"/>
-####[Chapter 17](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter17) Amortized Analysis
+####[Chapter 17 Amortized Analysis](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter17)
 - [Chapter 17.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter17/C_17.1.c) - incrementing a binary counter
 
 <a name="others"/>
