@@ -1,4 +1,4 @@
-![img](https://cloud.githubusercontent.com/assets/9131176/10758683/ece9e164-7ced-11e5-890c-a8aae5539cd0.png)
+![img](https://cloud.githubusercontent.com/assets/9131176/10764198/e9ef0a7e-7d07-11e5-86b1-bdaa5e514c3a.png)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/wuzhiyi/CLRS-solution)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/wuzhiyi/CLRS-solution/blob/master/README.md)
 [![process](https://img.shields.io/badge/process-17-red.svg)](https://github.com/wuzhiyi/CLRS-solution)
