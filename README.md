@@ -2,6 +2,7 @@
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/wuzhiyi/CLRS-solution)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/wuzhiyi/CLRS-solution/blob/master/README.md)
 [![process](https://img.shields.io/badge/process-17-red.svg)](https://github.com/wuzhiyi/CLRS-solution)
+[![leetcode](https://img.shields.io/badge/leetcode-algorithms-orange.svg)](https://leetcode.com/problemset/algorithms/)
 ####skip: 
 **[ 2 ](#chapter-2)**|
 **[ 4 ](#chapter-4)**|
