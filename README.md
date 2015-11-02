@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/wuzhiyi/CLRS-solution/blob/master/README.md)
 [![process](https://img.shields.io/badge/process-17-red.svg)](https://github.com/wuzhiyi/CLRS-solution)
 [![leetcode](https://img.shields.io/badge/leetcode-algorithms-orange.svg)](https://leetcode.com/problemset/algorithms/)
-####skip: 
+####skip:
 **[ 2 ](#chapter-2)**|
 **[ 4 ](#chapter-4)**|
 **[ 5 ](#chapter-5)**|
@@ -22,7 +22,7 @@
 ##INFO
 Introduction to Algorithms, 3rd edition</br>
 
-If you have any questions or intend to improve my solution, </br>you could directly post an issue or fork a repository by yourself,</br>or send email to me (my email: zhiyifight@163.com).
+If you have any questions or intend to improve my solution, </br>you could directly post an issue or fork a repository by yourself,</br>or send email to me (my email: mynameiswuhaipeng@gmail.com).
 
 Thanks for your contribution.
 
@@ -100,7 +100,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Exercise 10.2-7](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.2-7.c) - nonrecursively reverse a singly linked list
 - [Exercise 10.3-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.3-2.c) - implement ALLOCATE-OBJECT & FREE-OBJECT by singly-array
 - [Exercise 10.3-5](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.3-5.c) - COMPACTIFY-LIST (doubly linked list)
-- [Exercise 10.4-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.4-2.c) - recursively print out the key of each node in a binary tree 
+- [Exercise 10.4-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.4-2.c) - recursively print out the key of each node in a binary tree
 - [Exercise 10.4-3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/E_10.4-3.c) - nonrecursively print out the key of each node in a binary tree
 - [Problem 10-2](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter10/P_10-2.c) - mergeable heaps using linked lists
 
@@ -115,7 +115,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 </br>
 - [Problem 13-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter13/P_13-4.cpp) - Treaps
 
 <a name="chapter-14"/>
-####[Chapter 14 Augmenting Data Structures](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter14) 
+####[Chapter 14 Augmenting Data Structures](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter14)
 - [Chapter 14.3](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/C_14.3.cpp) - interval trees
 - [Exercise 14.3-6](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter14/E_14.3-6.cpp) - maintain a dynamic set that supports the operation MIN-GAP
 
