@@ -5,7 +5,7 @@
 [![leetcode](https://img.shields.io/badge/leetcode-algorithms-orange.svg)](https://leetcode.com/problemset/algorithms/)
 <br/>
 #### skip:
-**[ 2 ](#chapter-2)**|
+**[ 2 ]()**|
 **[ 4 ](#chapter-4)**|
 **[ 5 ](#chapter-5)**|
 **[ 6 ](#chapter-6)**|
@@ -19,6 +19,8 @@
 **[ 16 ](#chapter-16)**|
 **[ 17 ](#chapter-17)**|
 **[ others ](#others)**
+
+- [Chapter 2 Getting Started](#chapter-2)
 
 ## INFO
 Introduction to Algorithms, 3rd edition<br/>
@@ -42,9 +44,8 @@ E_2.3-5.2:  Exercise 2.3-5, 2nd version <br/>
 E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 <br/>
 
 ## INDEX
-<a id="chapter-2"/>
 
-#### [Chapter 2 Getting Started](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02)
+#### <a id="chapter-2">[Chapter 2 Getting Started](https://github.com/wuzhiyi/CLRS-solution/tree/master/Chapter02)</a>
 
 - [Chapter 2.3.1](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/C_2.3.1.c) - MERGE SORT
 - [Exercise 2.1-4](https://github.com/wuzhiyi/CLRS-solution/blob/master/Chapter02/E_2.1-4.c) - ADD BINARY
