@@ -168,7 +168,7 @@ E_10.1-5~7: Exercise 10.1-5 ~ 10.1-7 <br/>
 - [Modular-Exp](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Modular-Exp.c) - modular exponentiation algorithm
 - [Multiplicative-Inverse](https://github.com/wuzhiyi/CLRS-solution/blob/master/Others/Multiplicative-Inverse.c) - multiplicative inverse (Fermat's little theorem & extended Euclidean algorithm)
 
-##LICENSE
+## LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015 vinci
